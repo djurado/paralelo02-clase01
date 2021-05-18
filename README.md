@@ -6,3 +6,4 @@
 + Kenny Aranda
 + Erick Lino
 + Omar Coello
++ Darwin Kuonqui
