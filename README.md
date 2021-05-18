@@ -7,4 +7,4 @@
 + Erick Lino
 + Omar Coello
 + Darwin Kuonqui
-+ Juan Pita
++ Natalia Ramírez
