@@ -7,5 +7,5 @@
 + Erick Lino
 + Omar Coello
 + Darwin Kuonqui
-+ Juan Pita
-+ Loberlly Salazar
++ Natalia Ramírez
++ David Rivera
