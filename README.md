@@ -10,3 +10,4 @@
 + Natalia Ramírez
 + David Rivera
 + Lizbeth Peña
++ Juan Quimí
