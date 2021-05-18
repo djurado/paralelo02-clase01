@@ -2,4 +2,4 @@
 ## Asistencia a las políticas de la clase
 + David Jurado
 + Ricardo Zaruma
-+Erick Lino
++ Erick Lino
