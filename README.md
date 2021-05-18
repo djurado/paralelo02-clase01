@@ -8,4 +8,5 @@
 + Omar Coello
 + Darwin Kuonqui
 + Natalia Ramírez
-+ David Rivera
++ Gabriela Ramos
++ Pratt Garcíia
