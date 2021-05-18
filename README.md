@@ -11,3 +11,4 @@
 + David Rivera
 + Lizbeth Peña
 + Juan Quimí
++ Katherine Morales
