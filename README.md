@@ -8,3 +8,4 @@
 + Omar Coello
 + Darwin Kuonqui
 + Natalia Ramírez
++ Gabriela Ramos
