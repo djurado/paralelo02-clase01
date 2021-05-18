@@ -16,3 +16,4 @@
 + Loberlly Salazar
 + Kevin Muñoz
 + Pratt Garcia
++ Juan Pita
