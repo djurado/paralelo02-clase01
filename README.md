@@ -4,3 +4,4 @@
 + Ricardo Zaruma
 + Milca Valdez Flores
 + Kenny Aranda
++ Erick Lino
